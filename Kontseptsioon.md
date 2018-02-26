@@ -6,7 +6,7 @@ permalink: /
 
 kontseptsioon
 
-vrdl [`hello world`]() - vähim terviklik, töötav programm mõnes programmeerimiskeeles. vt ka [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product), [full-stack-hello](https://github.com/jserv/full-stack-hello), [Hello World programmikogu](https://helloworldcollection.github.io/) jpt
+[Hello World](https://helloworldcollection.github.io/) - vähim terviklik, töötav programm mõnes programmeerimiskeeles. vt ka [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product), [full-stack-hello](https://github.com/jserv/full-stack-hello) jpt
 {:.note}
 
 ## Pakkumine

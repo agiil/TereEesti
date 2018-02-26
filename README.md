@@ -1,2 +1,2 @@
 # TereMaailm
-Teenuseplatvormi Tere Maailm kontseptsioon
+Teenuseplatvormi "Tere Eesti" kontseptsioon
