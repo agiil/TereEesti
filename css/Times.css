@@ -68,7 +68,7 @@ p { margin: 0 0 1em 0; }
 #Tekst > ol {
   padding-left: 1em;
 }  
-#Tekst ol li {
+#Tekst > ol > li {
   margin-bottom: 1em; 
 }
 /*#endregion */

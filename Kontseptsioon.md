@@ -112,36 +112,40 @@ permalink: /
 - seadistatava statistikalogi näol 
 - statistikalogi külge saan ühendada erinevaid visualiseerimisvahendeid
 
-24. Teavitused
+24. Tagasiside
+- ma ei pea ise läbi viima rahulolu-uuringut
+- teenuseplatvormi sisseehitatud tagasisidemoodul kogub ja analüüsib kasutajate tagasisidet
+
+25. Teavitused
 - mul ei ole vaja ise teostada teavituste funktsionaalsust
 - platvormi teavitusmoodul võimaldab kasutajatele sõnumeid saata, puhverdada jne
 
-25. Testimine
+26. Testimine
 - ma ei pea üleś ehitama testkeskkonda
 - platvorm pakub arendus-, test- ja toodangukeskkonda kõigile teenustele
 
-26. Tulemüür
+27. Tulemüür
 - ma ei pea tegelema võrguliikluse kaitsega
 - tulemüür on teenuseplatvormi standardvarustuses  
 
-27. Turvanõrkused
+28. Turvanõrkused
 - ma ei pea pidevalt jälgima IT uudiseid, et teada saada, kus minu e-teenuses võib olla turvaauk
 - ma ei pea tegelema turvaaukude kõrvaldamisega
 - platvormihaldaja jälgib CERT vms infoturbe teavitusi; turvanõrkustest teadasaamisel rakendatakse meetmeid
 
-28. UI/UX
+29. UI/UX
 - mul ei ole vaja tellida oma kujundust
 - riigivapp jms sisaldav baaskujundus on teenuseplatvormil juba olemas
 
-29. Varundamine
+30. Varundamine
 - ma ei pea ise varundama
 - konfigureeritav varundamine on platvormi poolt
 
-30. Versiooniuuendused
+31. Versiooniuuendused
 - ma ei pea tegelema rakenduses kasutatavate tarkvarateekide uuendamisega
 - platvormil toimuvad teegiuuendused tsentraliseeritult
 
-31. X-tee
+32. X-tee
 - mul ei ole vaja paigaldada X-tee turvaserverit
 - turvaserver provisioneeritakse teenuseplatvormi osana
 - liidesed enimtarvitatavate andmekogudega on platvormis juba teostatud, piisab nende aktiveerimisest
@@ -150,7 +154,7 @@ KOKKUVÕTTES, ma ei pea neile 30+ keerulisele teemale oma väärtuslikku aega ja
 
 ## Mallteenus “Tere Eesti”
 
-### Ülevaade
+### Lähtekohad
 
 - Mul ei ole vaja kõike algusest teha
 - paljusid asju ei ole mul üldse vaja ise teha
@@ -159,7 +163,7 @@ KOKKUVÕTTES, ma ei pea neile 30+ keerulisele teemale oma väärtuslikku aega ja
 - mudel on kasutusvalmis kohe
 - täidan oma äriloogikaga
 
-### Funktsionaalsused ja mittefunktsionaalsed omadused
+### Funktsionaalsused ja toetavad omadused
 
 - veebirakendus > frontend > avaleht
 - riigivapiga kujundus
