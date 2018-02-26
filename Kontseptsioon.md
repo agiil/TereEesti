@@ -2,8 +2,9 @@
 permalink: /
 ---
 
-# Teenuseplatvormi "Tere Eesti" kontseptsioon
+# Teenuseplatvorm "Tere Eesti"
 
+kontseptsioon
 
 ## Pakkumine
 
