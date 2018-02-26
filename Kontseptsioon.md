@@ -5,6 +5,8 @@ permalink: /
 # Teenuseplatvormi "Tere Eesti" kontseptsioon
 
 
+## Pakkumine
+
 1. API
 - ma ei pea eraldi, suure raha eest arendama oma süsteemile masinloetavat liidest (API-t)
 - masinloetava liidese tugi on sees juba alustehnoloogias
@@ -144,18 +146,21 @@ permalink: /
 - turvaserver provisioneeritakse teenuseplatvormi osana
 - liidesed enimtarvitatavate andmekogudega on platvormis juba teostatud, piisab nende aktiveerimisest
 
-KOKKUVÕTTES, ma ei pea neile 30 aeganõudvale ja keerulisele teemale oma energiat kulutama
+KOKKUVÕTTES, ma ei pea neile 30+ keerulisele teemale oma väärtuslikku aega ja energiat kulutama
 
 ## Mallteenus “Tere Eesti”
 
-- mul ei ole vaja kõike algusest teha
+### Ülevaade
+
+- Mul ei ole vaja kõike algusest teha
 - paljusid asju ei ole mul üldse vaja ise teha
-- “Hello, World!” on mudelrakendus, milles kõik ülalloetletu on juba tehtud
+- “Tere Eesti” on mudelrakendus, milles kõik ülalloetletu on juba tehtud
 - saan teha mudelist koopia
 - mudel on kasutusvalmis kohe
 - täidan oma äriloogikaga
 
-funktsionaalsused:
+### Funktsionaalsused ja mittefunktsionaalsed omadused
+
 - veebirakendus > frontend > avaleht
 - riigivapiga kujundus
 - UI kolmes keeles (EE, EN, RU)
@@ -168,7 +173,7 @@ funktsionaalsused:
 - kodanikuvaade
 - autentimata vaade
 - autenditud vaade
-    - kasutaja saab saata teate "Tere Eesti"
+    - kasutaja saab saata teate `Tere Eesti`
 - FAQ
 - kasutajatoe kontaktid
 - ametnikuvaade
