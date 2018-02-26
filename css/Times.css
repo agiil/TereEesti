@@ -68,6 +68,9 @@ p { margin: 0 0 1em 0; }
 #Tekst > ol {
   padding-left: 1em;
 }  
+#Tekst ol li {
+  margin-bottom: 1em; 
+}
 /*#endregion */
 
 /*#region TOC genereeritud === */
@@ -153,6 +156,5 @@ a.nupp:hover {
   border: 1px solid Black !important;
   text-decoration: none !important;
 }
-
 
 /*#endregion */
