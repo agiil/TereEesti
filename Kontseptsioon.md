@@ -155,7 +155,7 @@ Teenuseplatvormi kontseptsioon
 
 KOKKUVÕTTES, ma ei pea neile 30+ keerulisele teemale oma väärtuslikku aega ja energiat kulutama
 
-## Mallteenus “Tere Eesti”
+## “Tere Eesti” mallteenus 
 
 ### Lähtekohad
 
