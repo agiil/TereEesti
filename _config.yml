@@ -1,7 +1,7 @@
 # 
-repo: "https://github.com/e-gov/eIDAS-Connector"
-baseurl: "https://e-gov.github.io/eIDAS-Connector"
-viimatiMuudetud: '13.02.2018'
+repo: "https://github.com/agiil/TereEesti"
+baseurl: "https://agiil.github.io/TereEesti"
+viimatiMuudetud: '26.02.2018'
 
 defaults:
   -
