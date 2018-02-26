@@ -2,12 +2,11 @@
 permalink: /
 ---
 
-# Teenuseplatvorm "Tere Eesti"
+# "Tere Eesti"
 
-kontseptsioon
+Teenuseplatvormi kontseptsioon
 
-[Hello World](https://helloworldcollection.github.io/) - vähim terviklik, töötav programm mõnes programmeerimiskeeles. vt ka [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product), [full-stack-hello](https://github.com/jserv/full-stack-hello) jpt
-{:.note}
+([Hello World](https://helloworldcollection.github.io/) - vähim terviklik, töötav programm mõnes programmeerimiskeeles. vt ka [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product), [full-stack-hello](https://github.com/jserv/full-stack-hello) jpt)
 
 ## Pakkumine
 
